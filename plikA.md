@@ -1,10 +1,10 @@
 # dasdas
 
 d
-asd
 Linia
 Słoń
+Torus
 Pies Kot
-Jaszczurka
+Jaszczurka Myszojeleń
 Pingwin
 Motyl
