@@ -1,0 +1,2 @@
+# newRepo
+Opis projektu
