@@ -2,4 +2,9 @@
 
 d
 asd
-sa
+Linia
+Słoń
+Pies Kot
+Jaszczurka
+Pingwin
+Motyl
